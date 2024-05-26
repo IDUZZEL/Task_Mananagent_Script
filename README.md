@@ -45,4 +45,4 @@ Users can mark a task as completed by entering the task ID. The completion statu
 To use this script, simply run it in a Bash shell:
 
 ```shellscript
-/bin/bash /path/to/taskm.sh
+/bin/bash /path/to/todo.sh
