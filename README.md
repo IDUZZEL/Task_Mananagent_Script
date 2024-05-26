@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a simple yet powerful task management system implemented as a Bash script. It is designed to provide a command-line interface for managing tasks, making it ideal for users who prefer to work in a terminal environment. Despite its simplicity, it offers a range of features typically found in more complex task management systems.
+This project is a simple task management system implemented as a Bash script. It is designed to provide a command-line interface for managing tasks, making it ideal for users who prefer to work in a terminal environment. Despite its simplicity, it offers a range of features typically found in more complex task management systems.
 
 ## Design Choices
 
